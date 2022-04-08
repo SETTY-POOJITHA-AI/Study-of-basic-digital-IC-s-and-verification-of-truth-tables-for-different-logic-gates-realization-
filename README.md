@@ -84,16 +84,16 @@ endmodule
 */
 ```
 ## Logic symbol & Truthtable
-![output](logic.png)
+![output](.\logic.png)
 
-![output](table.png)
+![output](.\table.png)
 
 ## RTL realization 
-![output](RTL_realization.png)
+![output](.\RTL_realization.png)
 
 ## Output:
-![output](RTL_real.png)
-![output](table.png)
+![output](.\RTL_real.png)
+![output](.\table.png)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
