@@ -84,7 +84,7 @@ endmodule
 */
 ```
 ## Logic symbol & Truthtable
-![output](.\logic.png)
+![output](https://github.com/SETTY-POOJITHA-AI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/0319da23afddc4e627065d8fc0bc10ce0dc04bd6/Logic.png)
 
 ![output](.\table.png)
 
