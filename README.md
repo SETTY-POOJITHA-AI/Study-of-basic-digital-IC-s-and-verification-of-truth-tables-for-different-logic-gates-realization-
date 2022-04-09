@@ -92,7 +92,7 @@ endmodule
 ![output](https://github.com/SETTY-POOJITHA-AI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/90d48b78e998055f673886fac8ee950a873d4e59/RTL_realization.png)
 
 ## Output:
-![output](.\RTL_real.png)
+![output](https://github.com/SETTY-POOJITHA-AI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/03bb9c14156ea1c437edfcae83e047f198e27e3f/RTL_real.png)
 ![output](.\table.png)
 
 ## Result:
