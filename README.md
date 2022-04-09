@@ -86,7 +86,7 @@ endmodule
 ## Logic symbol & Truthtable
 ![output](https://github.com/SETTY-POOJITHA-AI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/0319da23afddc4e627065d8fc0bc10ce0dc04bd6/Logic.png)
 
-![output](.\table.png)
+![output](https://github.com/SETTY-POOJITHA-AI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/2b0308e363ea8b962520cb6f9f82d47032a1429a/Table.png)
 
 ## RTL realization 
 ![output](.\RTL_realization.png)
