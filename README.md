@@ -93,7 +93,7 @@ endmodule
 
 ## Output:
 ![output](https://github.com/SETTY-POOJITHA-AI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/03bb9c14156ea1c437edfcae83e047f198e27e3f/RTL_real.png)
-![output](.\table.png)
+![output](https://github.com/SETTY-POOJITHA-AI/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/e405282d45d182b11c7ef5d2751ad35a81c87c92/Table.png)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
